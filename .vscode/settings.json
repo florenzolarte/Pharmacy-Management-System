@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Jar files/AbsoluteLayout.jar",
+        "Jar files/activation.jar",
+        "Jar files/itext.jar",
+        "Jar files/jcalendar-1.3.2.jar",
+        "Jar files/jcommon-1.0.23.jar",
+        "Jar files/mysql-connector-java-8.0.20.jar",
+        "c:\\Users\\flore\\OneDrive\\Desktop\\Jar files\\AbsoluteLayout.jar",
+        "c:\\Users\\flore\\OneDrive\\Desktop\\Jar files\\activation.jar",
+        "c:\\Users\\flore\\OneDrive\\Desktop\\Jar files\\itext.jar",
+        "c:\\Users\\flore\\OneDrive\\Desktop\\Jar files\\jcalendar-1.3.2.jar",
+        "c:\\Users\\flore\\OneDrive\\Desktop\\Jar files\\jcommon-1.0.23.jar",
+        "c:\\Users\\flore\\OneDrive\\Desktop\\Jar files\\mysql-connector-j-8.1.0.jar",
+        "c:\\Users\\flore\\Documents\\Netbeans\\Jar files\\AbsoluteLayout.jar",
+        "c:\\Users\\flore\\Documents\\Netbeans\\Jar files\\activation.jar",
+        "c:\\Users\\flore\\Documents\\Netbeans\\Jar files\\itext.jar",
+        "c:\\Users\\flore\\Documents\\Netbeans\\Jar files\\jcalendar-1.3.2.jar",
+        "c:\\Users\\flore\\Documents\\Netbeans\\Jar files\\jcommon-1.0.23.jar",
+        "c:\\Users\\flore\\Documents\\Netbeans\\Jar files\\mysql-connector-j-8.1.0.jar",
+        "c:\\Users\\flore\\Documents\\Netbeans\\Jar files\\mysql-connector-java-8.0.20.jar"
+    ]
+}
